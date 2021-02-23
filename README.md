@@ -1,5 +1,5 @@
 # Proyecto JSON
-¡Buenas! Este es mi proyecto JSON donde trabaré con información de un fichero JSON el cual contiene información sobre todas las CPU de INTEL.
+¡Buenas! Este es mi proyecto JSON donde trabaré con información de un fichero JSON el cual contiene información sobre algunas de las CPU de INTEL.
 
 1. Muestra el nombre de los procesadores Intel.
 2. Cuenta los procesadores de instrucción de 32 bits.
