@@ -60,3 +60,23 @@ def buscasocket(nombresocket):
         if i.get("Package Specifications").get("Sockets Supported") == nombresocket:
             nombres.append(i.get("name"))
     return nombres
+def mayorcores(numero):
+    nombres=[]
+    for i in datos.get("procesadores").get("procesador"):
+        if i.get("Performance").get("# of Cores") < numero:
+            nombres.append(i.get("name"))
+    return nombres
+def adicional(opcional,nombre):
+    for i in datos.get("procesadores").get("procesador"):
+        if i.get("name")== nombre:
+            opcioncaracteristica=i.get("Performance").get(opcional)
+    return opcioncaracteristica
+def menucaracteristicas():
+    print("------CARACTERISTICA ADICIONAL------")
+    print('''1.Frecuencia Base del Procesador
+2.Cache
+3.Velocidad de bus
+4.TDP
+5.Salir''')
+    opcion=int(input("Introduce la opcion:"))
+    return opcion
