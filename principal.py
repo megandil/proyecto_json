@@ -34,11 +34,34 @@ while menus != 6:
             if menuprocesador == 5:
                 procesador="Intel Pentium Processor E5500 (2M Cache, 2.80 GHz, 800 MHz FSB)"
             if menuprocesador == 6:
-                procesador=input("Introduce el nombre del procesador manualmente:")
+                procesador=input("Introduce el nombre del procesador manualmente: ")
             print("----CARACTERÍSTICAS----")
             for clave,valor in buscaprocesador(procesador).items():
                 print(clave,"->",valor) 
             menuprocesador=menuprocesadores()
-            print(menuprocesador)       
+            print(menuprocesador)
+    if menus == 4:
+        menusocket=sockets()
+        print(menusocket)    
+        while menusocket != 7:
+            if menusocket == 1:
+                socket="PPGA604"
+            if menusocket == 2:
+                socket="H-PBGA479"
+            if menusocket == 3:
+                socket="PBGA479"
+            if menusocket == 4:
+                socket="PPGA370"
+            if menusocket == 5:
+                socket="LGA775"
+            if menusocket == 6:
+                socket=input("Introduce el nombre del socket manualmente: ")
+            print()
+            print("---PROCESADORES COMPATIBLES---")
+            for i in buscasocket(socket):
+                print(i)
+            print()  
+            menusocket=sockets()
+            print(menusocket)         
     menus=menu()
     print(menus)
