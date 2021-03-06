@@ -16,3 +16,14 @@ def nombreprocesadores():
         procesador=i.get("name")
         procesadores.append(procesador)
     return procesadores
+def contarprocesadores():
+    cuenta64=0
+    cuenta32=0
+    for i in datos.get("procesadores").get("procesador"):
+        procesador=i.get("Advanced Technologies").get("Instruction Set")
+        if procesador == "64-bit":
+            cuenta64=cuenta64+1
+        if procesador == "32-bit":
+            cuenta32=cuenta32+1
+    lista=[cuenta64,cuenta32]
+    return lista
