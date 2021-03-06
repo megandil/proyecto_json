@@ -1,1048 +1,1050 @@
 {
-    "27076": {
-        "name": "64-bit Intel Xeon Processor 2.80 GHz, 1M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Nocona",
-            "Vertical Segment": "Server",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
+    "procesadores":{
+        "procesador": [{
+            "name": "64-bit Intel Xeon Processor 2.80 GHz, 1M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Nocona",
+                "Vertical Segment": "Server",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "2.80 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "103 W",
+                "VID Voltage Range": "1.25V-1.4V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "72°C",
+                "Processing Die Size": "112 mm2",
+                "# of Processing Die Transistors": "125 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Instruction Set": "64-bit"
+            }
         },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "2.80 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "103 W",
-            "VID Voltage Range": "1.25V-1.4V"
+        {
+            "name": "64-bit Intel Xeon Processor 2.80D GHz, 1M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Nocona",
+                "Vertical Segment": "Server",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "2.80 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "103 W",
+                "VID Voltage Range": "1.25V-1.4V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "72°C",
+                "Processing Die Size": "112 mm2",
+                "# of Processing Die Transistors": "125 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Instruction Set": "64-bit"
+            }
         },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes",
-            "Datasheet": "View now"
+        {
+            "name": "64-bit Intel Xeon Processor 2.80E GHz, 2M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Irwindale",
+                "Vertical Segment": "Server",
+                "Status": "Launched",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "2.80 GHz",
+                "Cache": "2 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "FSB Parity": "Yes",
+                "TDP": "110 W",
+                "VID Voltage Range": "1.25V-1.4V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "72°C",
+                "Package Size": "42.5mm x 42.5mm",
+                "Processing Die Size": "135 mm2",
+                "# of Processing Die Transistors": "169 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "72°C",
-            "Processing Die Size": "112 mm2",
-            "# of Processing Die Transistors": "125 million",
-            "Low Halogen Options Available": "No"
+        {
+            "name": "64-bit Intel Xeon Processor 3.00 GHz, 1M Cache, 667 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Irwindale",
+                "Vertical Segment": "Server",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "3.00 GHz",
+                "Cache": "2 MB",
+                "Bus Speed": "800 MHz FSB"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "Processing Die Size": "135 mm2",
+                "# of Processing Die Transistors": "169 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Instruction Set": "64-bit"
+            }
         },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Instruction Set": "64-bit"
-        }
-    },
-    "27077": {
-        "name": "64-bit Intel Xeon Processor 2.80D GHz, 1M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Nocona",
-            "Vertical Segment": "Server",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
+        {
+            "name": "64-bit Intel Xeon Processor 3.20E GHz, 2M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Irwindale",
+                "Vertical Segment": "Server",
+                "Status": "Launched",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "3.20 GHz",
+                "Cache": "2 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "FSB Parity": "Yes",
+                "TDP": "110 W",
+                "VID Voltage Range": "1.2875V-1.3875V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "73°C",
+                "Package Size": "42.5mm x 42.5mm",
+                "Processing Die Size": "135 mm2",
+                "# of Processing Die Transistors": "169 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "2.80 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "103 W",
-            "VID Voltage Range": "1.25V-1.4V"
+        {
+            "name": "64-bit Intel Xeon Processor 3.40 GHz, 1M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Nocona",
+                "Vertical Segment": "Server",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "3.40 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "103 W",
+                "VID Voltage Range": "1.287V-1.4V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "72°C",
+                "Processing Die Size": "112 mm2",
+                "# of Processing Die Transistors": "125 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Instruction Set": "64-bit"
+            }
         },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes"
+        {
+            "name": "64-bit Intel Xeon Processor 3.40E GHz, 2M Cache, 800 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Irwindale",
+                "Vertical Segment": "Server",
+                "Status": "Launched",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "3.40 GHz",
+                "Cache": "2 MB L2",
+                "Bus Speed": "800 MHz FSB",
+                "FSB Parity": "Yes",
+                "TDP": "110 W",
+                "VID Voltage Range": "1.2875V-1.3875V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA604",
+                "TCASE": "73°C",
+                "Package Size": "42.5mm x 42.5mm",
+                "Processing Die Size": "135 mm2",
+                "# of Processing Die Transistors": "169 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "72°C",
-            "Processing Die Size": "112 mm2",
-            "# of Processing Die Transistors": "125 million",
-            "Low Halogen Options Available": "No"
+        {
+            "name": "64-bit Intel Xeon Processor 3.50 GHz, 1M Cache, 667 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Xeon Processors",
+                "Code Name": "Products formerly Nocona",
+                "Vertical Segment": "Server",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "3.50 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "667 MHz FSB",
+                "FSB Parity": "Yes",
+                "TDP": "110 W",
+                "VID Voltage Range": "1.2875V-1.4000V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "TCASE": "73°C",
+                "Package Size": "53.3mm x 53.3mm",
+                "Processing Die Size": "112 mm2",
+                "# of Processing Die Transistors": "125 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Instruction Set": "64-bit"
-        }
-    },
-    "27078": {
-        "name": "64-bit Intel Xeon Processor 2.80E GHz, 2M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Irwindale",
-            "Vertical Segment": "Server",
-            "Status": "Launched",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "2.80 GHz",
-            "Cache": "2 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "FSB Parity": "Yes",
-            "TDP": "110 W",
-            "VID Voltage Range": "1.25V-1.4V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "72°C",
-            "Package Size": "42.5mm x 42.5mm",
-            "Processing Die Size": "135 mm2",
-            "# of Processing Die Transistors": "169 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27080": {
-        "name": "64-bit Intel Xeon Processor 3.00 GHz, 1M Cache, 667 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Irwindale",
-            "Vertical Segment": "Server",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "3.00 GHz",
-            "Cache": "2 MB",
-            "Bus Speed": "800 MHz FSB"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "Processing Die Size": "135 mm2",
-            "# of Processing Die Transistors": "169 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Instruction Set": "64-bit"
-        }
-    },
-    "27083": {
-        "name": "64-bit Intel Xeon Processor 3.20E GHz, 2M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Irwindale",
-            "Vertical Segment": "Server",
-            "Status": "Launched",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "3.20 GHz",
-            "Cache": "2 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "FSB Parity": "Yes",
-            "TDP": "110 W",
-            "VID Voltage Range": "1.2875V-1.3875V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "73°C",
-            "Package Size": "42.5mm x 42.5mm",
-            "Processing Die Size": "135 mm2",
-            "# of Processing Die Transistors": "169 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27085": {
-        "name": "64-bit Intel Xeon Processor 3.40 GHz, 1M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Nocona",
-            "Vertical Segment": "Server",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "3.40 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "103 W",
-            "VID Voltage Range": "1.287V-1.4V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "72°C",
-            "Processing Die Size": "112 mm2",
-            "# of Processing Die Transistors": "125 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Instruction Set": "64-bit"
-        }
-    },
-    "27086": {
-        "name": "64-bit Intel Xeon Processor 3.40E GHz, 2M Cache, 800 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Irwindale",
-            "Vertical Segment": "Server",
-            "Status": "Launched",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "3.40 GHz",
-            "Cache": "2 MB L2",
-            "Bus Speed": "800 MHz FSB",
-            "FSB Parity": "Yes",
-            "TDP": "110 W",
-            "VID Voltage Range": "1.2875V-1.3875V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA604",
-            "TCASE": "73°C",
-            "Package Size": "42.5mm x 42.5mm",
-            "Processing Die Size": "135 mm2",
-            "# of Processing Die Transistors": "169 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27087": {
-        "name": "64-bit Intel Xeon Processor 3.50 GHz, 1M Cache, 667 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Xeon Processors",
-            "Code Name": "Products formerly Nocona",
-            "Vertical Segment": "Server",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "3.50 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "667 MHz FSB",
-            "FSB Parity": "Yes",
-            "TDP": "110 W",
-            "VID Voltage Range": "1.2875V-1.4000V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "TCASE": "73°C",
-            "Package Size": "53.3mm x 53.3mm",
-            "Processing Die Size": "112 mm2",
-            "# of Processing Die Transistors": "125 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
 
-    "27157": {
-        "name": "Intel Celeron M Processor ULV 353 (512K Cache, 900 MHz, 400 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Dothan",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "353",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
+        {
+            "name": "Intel Celeron M Processor ULV 353 (512K Cache, 900 MHz, 400 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Dothan",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "353",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "900 MHz",
+                "Cache": "512 KB L2",
+                "Bus Speed": "400 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "5 W",
+                "Scenario Design Power (SDP)": "0 W",
+                "VID Voltage Range": "0.940V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "H-PBGA479",
+                "TJUNCTION": "100°C",
+                "Package Size": "35mm x 35mm",
+                "Processing Die Size": "87 mm2",
+                "# of Processing Die Transistors": "144 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "900 MHz",
-            "Cache": "512 KB L2",
-            "Bus Speed": "400 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "5 W",
-            "Scenario Design Power (SDP)": "0 W",
-            "VID Voltage Range": "0.940V"
+        {
+            "name": "Intel Celeron M Processor ULV 373 (512K Cache, 1.00 GHz, 400 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Dothan",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "373",
+                "Status": "Discontinued",
+                "Launch Date": "Q2'04",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "1.00 GHz",
+                "Cache": "512 KB L2",
+                "Bus Speed": "400 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "5.5 W",
+                "Scenario Design Power (SDP)": "0 W",
+                "VID Voltage Range": "0.876V-0.956V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "H-PBGA479",
+                "TJUNCTION": "100°C",
+                "Package Size": "35mm x 35mm",
+                "Processing Die Size": "87 mm2",
+                "# of Processing Die Transistors": "144 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
+        {
+            "name": "Intel Celeron M Processor ULV 383 (1M Cache, 1.00 GHz, 400 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Dothan",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "383",
+                "Status": "Discontinued",
+                "Lithography": "90 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "1.00 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "400 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "5.5 W",
+                "Scenario Design Power (SDP)": "0 W",
+                "VID Voltage Range": "0.876V-0.956V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "H-PBGA479",
+                "TJUNCTION": "100°C",
+                "Package Size": "35mm x 35mm",
+                "Processing Die Size": "87 mm2",
+                "# of Processing Die Transistors": "144 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
+        {
+            "name": "Intel Celeron M Processor ULV 423 (1M Cache, 1.06 GHz, 533 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Yonah",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "423",
+                "Status": "Discontinued",
+                "Launch Date": "Q1'06",
+                "Lithography": "65 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "1.06 GHz",
+                "Cache": "1 MB L2",
+                "Bus Speed": "533 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "5.5 W",
+                "Scenario Design Power (SDP)": "0 W",
+                "VID Voltage Range": "0.85V-1.10V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PBGA479",
+                "TJUNCTION": "100°C",
+                "Package Size": "35mm x 35mm",
+                "Processing Die Size": "90 mm2",
+                "# of Processing Die Transistors": "151 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Package Specifications": {
-            "Sockets Supported": "H-PBGA479",
-            "TJUNCTION": "100°C",
-            "Package Size": "35mm x 35mm",
-            "Processing Die Size": "87 mm2",
-            "# of Processing Die Transistors": "144 million",
-            "Low Halogen Options Available": "No"
+        {
+            "name": "Intel Celeron M Processor ULV 800 MHz, 512K Cache, 400 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Banias",
+                "Vertical Segment": "Mobile",
+                "Status": "Discontinued",
+                "Lithography": "130 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "800 MHz",
+                "Cache": "512 KB L2",
+                "Bus Speed": "400 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "7 W",
+                "VID Voltage Range": "1.004V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "TCASE": "100°C",
+                "Package Size": "35mm x 35mm",
+                "Processing Die Size": "83 mm2",
+                "# of Processing Die Transistors": "77 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "No"
+            }
         },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
+        {
+            "name": "Intel Celeron Processor 1.00 GHz, 128K Cache, 100 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Coppermine",
+                "Vertical Segment": "Desktop",
+                "Status": "Discontinued",
+                "Lithography": "180 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "1.00 GHz",
+                "Cache": "128 KB L2",
+                "Bus Speed": "100 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "29 W",
+                "VID Voltage Range": "1.75V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA370",
+                "TCASE": "75°C",
+                "Package Size": "49mm x 49mm",
+                "Processing Die Size": "90 mm2",
+                "# of Processing Die Transistors": "28 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "No"
+            }
         },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27158": {
-        "name": "Intel Celeron M Processor ULV 373 (512K Cache, 1.00 GHz, 400 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Dothan",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "373",
-            "Status": "Discontinued",
-            "Launch Date": "Q2'04",
-            "Lithography": "90 nm"
+        {
+            "name": "Intel Celeron Processor 1.00 GHz, 256K Cache, 100 MHz FSB",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Tualatin",
+                "Vertical Segment": "Desktop",
+                "Status": "Discontinued",
+                "Lithography": "130 nm"
+            },
+            "Performance": {
+                "# of Cores": "1",
+                "Processor Base Frequency": "1.00 GHz",
+                "Cache": "256 KB L2",
+                "Bus Speed": "100 MHz FSB",
+                "FSB Parity": "No",
+                "TDP": "27.8 W",
+                "VID Voltage Range": "1.475"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "32-bit",
+                "ECC Memory Supported": "No"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "PPGA370",
+                "TCASE": "69°C",
+                "Package Size": "49mm x 49mm",
+                "Processing Die Size": "80 mm2",
+                "# of Processing Die Transistors": "44 million",
+                "Low Halogen Options Available": "No"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "No",
+                "Intel 64": "No",
+                "Instruction Set": "32-bit",
+                "Idle States": "No",
+                "Enhanced Intel SpeedStep Technology": "No",
+                "Intel Demand Based Switching": "No"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "No"
+            }
         },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "1.00 GHz",
-            "Cache": "512 KB L2",
-            "Bus Speed": "400 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "5.5 W",
-            "Scenario Design Power (SDP)": "0 W",
-            "VID Voltage Range": "0.876V-0.956V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "H-PBGA479",
-            "TJUNCTION": "100°C",
-            "Package Size": "35mm x 35mm",
-            "Processing Die Size": "87 mm2",
-            "# of Processing Die Transistors": "144 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27159": {
-        "name": "Intel Celeron M Processor ULV 383 (1M Cache, 1.00 GHz, 400 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Dothan",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "383",
-            "Status": "Discontinued",
-            "Lithography": "90 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "1.00 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "400 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "5.5 W",
-            "Scenario Design Power (SDP)": "0 W",
-            "VID Voltage Range": "0.876V-0.956V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "H-PBGA479",
-            "TJUNCTION": "100°C",
-            "Package Size": "35mm x 35mm",
-            "Processing Die Size": "87 mm2",
-            "# of Processing Die Transistors": "144 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27160": {
-        "name": "Intel Celeron M Processor ULV 423 (1M Cache, 1.06 GHz, 533 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Yonah",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "423",
-            "Status": "Discontinued",
-            "Launch Date": "Q1'06",
-            "Lithography": "65 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "1.06 GHz",
-            "Cache": "1 MB L2",
-            "Bus Speed": "533 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "5.5 W",
-            "Scenario Design Power (SDP)": "0 W",
-            "VID Voltage Range": "0.85V-1.10V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PBGA479",
-            "TJUNCTION": "100°C",
-            "Package Size": "35mm x 35mm",
-            "Processing Die Size": "90 mm2",
-            "# of Processing Die Transistors": "151 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "27162": {
-        "name": "Intel Celeron M Processor ULV 800 MHz, 512K Cache, 400 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Banias",
-            "Vertical Segment": "Mobile",
-            "Status": "Discontinued",
-            "Lithography": "130 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "800 MHz",
-            "Cache": "512 KB L2",
-            "Bus Speed": "400 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "7 W",
-            "VID Voltage Range": "1.004V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "TCASE": "100°C",
-            "Package Size": "35mm x 35mm",
-            "Processing Die Size": "83 mm2",
-            "# of Processing Die Transistors": "77 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "No"
-        }
-    },
-    "27164": {
-        "name": "Intel Celeron Processor 1.00 GHz, 128K Cache, 100 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Coppermine",
-            "Vertical Segment": "Desktop",
-            "Status": "Discontinued",
-            "Lithography": "180 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "1.00 GHz",
-            "Cache": "128 KB L2",
-            "Bus Speed": "100 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "29 W",
-            "VID Voltage Range": "1.75V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA370",
-            "TCASE": "75°C",
-            "Package Size": "49mm x 49mm",
-            "Processing Die Size": "90 mm2",
-            "# of Processing Die Transistors": "28 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "No"
-        }
-    },
-    "27165": {
-        "name": "Intel Celeron Processor 1.00 GHz, 256K Cache, 100 MHz FSB",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Tualatin",
-            "Vertical Segment": "Desktop",
-            "Status": "Discontinued",
-            "Lithography": "130 nm"
-        },
-        "Performance": {
-            "# of Cores": "1",
-            "Processor Base Frequency": "1.00 GHz",
-            "Cache": "256 KB L2",
-            "Bus Speed": "100 MHz FSB",
-            "FSB Parity": "No",
-            "TDP": "27.8 W",
-            "VID Voltage Range": "1.475"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "32-bit",
-            "ECC Memory Supported": "No"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "PPGA370",
-            "TCASE": "69°C",
-            "Package Size": "49mm x 49mm",
-            "Processing Die Size": "80 mm2",
-            "# of Processing Die Transistors": "44 million",
-            "Low Halogen Options Available": "No"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "No",
-            "Intel 64": "No",
-            "Instruction Set": "32-bit",
-            "Idle States": "No",
-            "Enhanced Intel SpeedStep Technology": "No",
-            "Intel Demand Based Switching": "No"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "No"
-        }
-    },
 
-    "42773": {
-        "name": "Intel Celeron Processor E3500 (1M Cache, 2.70 GHz, 800 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Wolfdale",
-            "Vertical Segment": "Desktop",
-            "Processor Number": "E3500",
-            "Status": "Discontinued",
-            "Launch Date": "Q3'10",
-            "Lithography": "45 nm"
+        {
+            "name": "Intel Celeron Processor E3500 (1M Cache, 2.70 GHz, 800 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Wolfdale",
+                "Vertical Segment": "Desktop",
+                "Processor Number": "E3500",
+                "Status": "Discontinued",
+                "Launch Date": "Q3'10",
+                "Lithography": "45 nm"
+            },
+            "Performance": {
+                "# of Cores": "2",
+                "Processor Base Frequency": "2.70 GHz",
+                "Cache": "1 MB SmartCache",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "65 W",
+                "VID Voltage Range": "0.8500V-1.3625V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "LGA775",
+                "TCASE": "74.1°C",
+                "Package Size": "37.5mm X 37.5mm",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Instruction Set Extensions": "Intel SSE2, Intel SSE3, Intel SSSE3",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel AES New Instructions": "No",
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Performance": {
-            "# of Cores": "2",
-            "Processor Base Frequency": "2.70 GHz",
-            "Cache": "1 MB SmartCache",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "65 W",
-            "VID Voltage Range": "0.8500V-1.3625V"
+        {
+            "name": "Intel Celeron Processor SU2300 (1M Cache, 1.20 GHz, 800 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Celeron Processor",
+                "Code Name": "Products formerly Penryn",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "SU2300",
+                "Status": "Discontinued",
+                "Launch Date": "Q3'09",
+                "Lithography": "45 nm"
+            },
+            "Performance": {
+                "# of Cores": "2",
+                "Processor Base Frequency": "1.20 GHz",
+                "Cache": "1 MB",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "10 W"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "BGA956",
+                "TJUNCTION": "100°C",
+                "Package Size": "22mm x 22mm",
+                "Processing Die Size": "107 mm2",
+                "# of Processing Die Transistors": "410 million",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel 64": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel Trusted Execution Technology": "No"
+            }
         },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
+        {
+            "name": "Intel Core2 Duo Processor SU7300 (3M Cache, 1.30 GHz, 800 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Core Processors",
+                "Code Name": "Products formerly Penryn",
+                "Vertical Segment": "Mobile",
+                "Processor Number": "SU7300",
+                "Status": "Discontinued",
+                "Lithography": "45 nm"
+            },
+            "Performance": {
+                "# of Cores": "2",
+                "Processor Base Frequency": "1.30 GHz",
+                "Cache": "3 MB SmartCache",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "10 W"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "BGA956",
+                "TJUNCTION": "105°C",
+                "Package Size": "22mm x 22mm",
+                "Processing Die Size": "107 mm2",
+                "# of Processing Die Transistors": "410 million",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel 64": "Yes",
+                "Instruction Set Extensions": "Intel SSE4.1",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel AES New Instructions": "No",
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Package Specifications": {
-            "Sockets Supported": "LGA775",
-            "TCASE": "74.1°C",
-            "Package Size": "37.5mm X 37.5mm",
-            "Low Halogen Options Available": "Yes"
+        {
+            "name": "Intel Itanium Processor 9330 (20M Cache, 1.46 GHz, 4.80 GT/s Intel QPI)",
+            "Essentials": {
+                "Product Collection": "Intel Itanium Processor 9300 Series",
+                "Code Name": "Products formerly Tukwila",
+                "Vertical Segment": "Server",
+                "Processor Number": "9330",
+                "Status": "Discontinued",
+                "Launch Date": "Q1'10",
+                "Expected Discontinuance": "Q2'2014",
+                "Lithography": "65 nm"
+            },
+            "Performance": {
+                "# of Cores": "4",
+                "# of Threads": "8",
+                "Processor Base Frequency": "1.46 GHz",
+                "Max Turbo Frequency": "1.60 GHz",
+                "Cache": "20 MB L3",
+                "Bus Speed": "4.8 GT/s QPI",
+                "TDP": "155 W"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Memory Specifications": {
+                "Physical Address Extensions": "50-bit"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "FCLGA1248",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "1.0",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel Virtualization Technology for Directed I/O (VT-d)": "Yes",
+                "Instruction Set": "Itanium 64-bit",
+                "Intel Demand Based Switching": "Yes",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Instruction Set Extensions": "Intel SSE2, Intel SSE3, Intel SSSE3",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Thermal Monitoring Technologies": "Yes"
+        {
+            "name": "Intel Pentium Processor E5500 (2M Cache, 2.80 GHz, 800 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Pentium Processor",
+                "Code Name": "Products formerly Wolfdale",
+                "Vertical Segment": "Desktop",
+                "Processor Number": "E5500",
+                "Status": "Discontinued",
+                "Launch Date": "Q2'10",
+                "Lithography": "45 nm"
+            },
+            "Performance": {
+                "# of Cores": "2",
+                "Processor Base Frequency": "2.80 GHz",
+                "Cache": "2 MB SmartCache",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "65 W",
+                "VID Voltage Range": "0.8500V-1.3625V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "LGA775",
+                "Max CPU Configuration": "1",
+                "TCASE": "74.1°C",
+                "Package Size": "37.5mm x 37.5mm",
+                "Processing Die Size": "82 mm2",
+                "# of Processing Die Transistors": "228 million",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel AES New Instructions": "No",
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Security & Reliability": {
-            "Intel AES New Instructions": "No",
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "42779": {
-        "name": "Intel Celeron Processor SU2300 (1M Cache, 1.20 GHz, 800 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Celeron Processor",
-            "Code Name": "Products formerly Penryn",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "SU2300",
-            "Status": "Discontinued",
-            "Launch Date": "Q3'09",
-            "Lithography": "45 nm"
+        {
+            "name": "Intel Pentium Processor E5700 (2M Cache, 3.00 GHz, 800 MHz FSB)",
+            "Essentials": {
+                "Product Collection": "Legacy Intel Pentium Processor",
+                "Code Name": "Products formerly Wolfdale",
+                "Vertical Segment": "Desktop",
+                "Processor Number": "E5700",
+                "Status": "Discontinued",
+                "Launch Date": "Q3'10",
+                "Lithography": "45 nm"
+            },
+            "Performance": {
+                "# of Cores": "2",
+                "Processor Base Frequency": "3.00 GHz",
+                "Cache": "2 MB SmartCache",
+                "Bus Speed": "800 MHz FSB",
+                "TDP": "65 W",
+                "VID Voltage Range": "0.8500V-1.3625V"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "No",
+                "Datasheet": "View now"
+            },
+            "Package Specifications": {
+                "Sockets Supported": "LGA775",
+                "Max CPU Configuration": "1",
+                "TCASE": "74.1°C",
+                "Package Size": "37.5mm x 37.5mm",
+                "Processing Die Size": "82 mm2",
+                "# of Processing Die Transistors": "228 million",
+                "Low Halogen Options Available": "Yes"
+            },
+            "Advanced Technologies": {
+                "Intel Turbo Boost Technology": "No",
+                "Intel Hyper-Threading Technology": "No",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Intel Demand Based Switching": "No",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel AES New Instructions": "No",
+                "Intel Trusted Execution Technology": "No",
+                "Execute Disable Bit": "Yes"
+            }
         },
-        "Performance": {
-            "# of Cores": "2",
-            "Processor Base Frequency": "1.20 GHz",
-            "Cache": "1 MB",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "10 W"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "BGA956",
-            "TJUNCTION": "100°C",
-            "Package Size": "22mm x 22mm",
-            "Processing Die Size": "107 mm2",
-            "# of Processing Die Transistors": "410 million",
-            "Low Halogen Options Available": "Yes"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel 64": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Intel Trusted Execution Technology": "No"
-        }
-    },
-    "42791": {
-        "name": "Intel Core2 Duo Processor SU7300 (3M Cache, 1.30 GHz, 800 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Core Processors",
-            "Code Name": "Products formerly Penryn",
-            "Vertical Segment": "Mobile",
-            "Processor Number": "SU7300",
-            "Status": "Discontinued",
-            "Lithography": "45 nm"
-        },
-        "Performance": {
-            "# of Cores": "2",
-            "Processor Base Frequency": "1.30 GHz",
-            "Cache": "3 MB SmartCache",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "10 W"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "BGA956",
-            "TJUNCTION": "105°C",
-            "Package Size": "22mm x 22mm",
-            "Processing Die Size": "107 mm2",
-            "# of Processing Die Transistors": "410 million",
-            "Low Halogen Options Available": "Yes"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel 64": "Yes",
-            "Instruction Set Extensions": "Intel SSE4.1",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Intel AES New Instructions": "No",
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "42795": {
-        "name": "Intel Itanium Processor 9330 (20M Cache, 1.46 GHz, 4.80 GT/s Intel QPI)",
-        "Essentials": {
-            "Product Collection": "Intel Itanium Processor 9300 Series",
-            "Code Name": "Products formerly Tukwila",
-            "Vertical Segment": "Server",
-            "Processor Number": "9330",
-            "Status": "Discontinued",
-            "Launch Date": "Q1'10",
-            "Expected Discontinuance": "Q2'2014",
-            "Lithography": "65 nm"
-        },
-        "Performance": {
-            "# of Cores": "4",
-            "# of Threads": "8",
-            "Processor Base Frequency": "1.46 GHz",
-            "Max Turbo Frequency": "1.60 GHz",
-            "Cache": "20 MB L3",
-            "Bus Speed": "4.8 GT/s QPI",
-            "TDP": "155 W"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Memory Specifications": {
-            "Physical Address Extensions": "50-bit"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "FCLGA1248",
-            "Low Halogen Options Available": "Yes"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "1.0",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel Virtualization Technology for Directed I/O (VT-d)": "Yes",
-            "Instruction Set": "Itanium 64-bit",
-            "Intel Demand Based Switching": "Yes",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "42800": {
-        "name": "Intel Pentium Processor E5500 (2M Cache, 2.80 GHz, 800 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Pentium Processor",
-            "Code Name": "Products formerly Wolfdale",
-            "Vertical Segment": "Desktop",
-            "Processor Number": "E5500",
-            "Status": "Discontinued",
-            "Launch Date": "Q2'10",
-            "Lithography": "45 nm"
-        },
-        "Performance": {
-            "# of Cores": "2",
-            "Processor Base Frequency": "2.80 GHz",
-            "Cache": "2 MB SmartCache",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "65 W",
-            "VID Voltage Range": "0.8500V-1.3625V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "LGA775",
-            "Max CPU Configuration": "1",
-            "TCASE": "74.1°C",
-            "Package Size": "37.5mm x 37.5mm",
-            "Processing Die Size": "82 mm2",
-            "# of Processing Die Transistors": "228 million",
-            "Low Halogen Options Available": "Yes"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Intel AES New Instructions": "No",
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "42801": {
-        "name": "Intel Pentium Processor E5700 (2M Cache, 3.00 GHz, 800 MHz FSB)",
-        "Essentials": {
-            "Product Collection": "Legacy Intel Pentium Processor",
-            "Code Name": "Products formerly Wolfdale",
-            "Vertical Segment": "Desktop",
-            "Processor Number": "E5700",
-            "Status": "Discontinued",
-            "Launch Date": "Q3'10",
-            "Lithography": "45 nm"
-        },
-        "Performance": {
-            "# of Cores": "2",
-            "Processor Base Frequency": "3.00 GHz",
-            "Cache": "2 MB SmartCache",
-            "Bus Speed": "800 MHz FSB",
-            "TDP": "65 W",
-            "VID Voltage Range": "0.8500V-1.3625V"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "No",
-            "Datasheet": "View now"
-        },
-        "Package Specifications": {
-            "Sockets Supported": "LGA775",
-            "Max CPU Configuration": "1",
-            "TCASE": "74.1°C",
-            "Package Size": "37.5mm x 37.5mm",
-            "Processing Die Size": "82 mm2",
-            "# of Processing Die Transistors": "228 million",
-            "Low Halogen Options Available": "Yes"
-        },
-        "Advanced Technologies": {
-            "Intel Turbo Boost Technology": "No",
-            "Intel Hyper-Threading Technology": "No",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel Virtualization Technology for Directed I/O (VT-d)": "No",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Intel Demand Based Switching": "No",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Intel AES New Instructions": "No",
-            "Intel Trusted Execution Technology": "No",
-            "Execute Disable Bit": "Yes"
-        }
-    },
-    "195334": {
-        "name": "Intel Xeon E-2278GE Processor (16M Cache, 3.30 GHz)",
-        "Essentials": {
-            "Product Collection": "Intel Xeon E Processor",
-            "Code Name": "Products formerly Coffee Lake",
-            "Vertical Segment": "Embedded",
-            "Processor Number": "E-2278GE",
-            "Status": "Launched",
-            "Launch Date": "Q2'19",
-            "Lithography": "14 nm",
-            "Use Conditions": "Embedded Broad Market Commercial Temp"
-        },
-        "Performance": {
-            "# of Cores": "8",
-            "# of Threads": "16",
-            "Processor Base Frequency": "3.30 GHz",
-            "Max Turbo Frequency": "4.70 GHz",
-            "Cache": "16 MB",
-            "Bus Speed": "8 GT/s DMI3",
-            "TDP": "80 W"
-        },
-        "Supplemental Information": {
-            "Embedded Options Available": "Yes"
-        },
-        "Memory Specifications": {
-            "Max Memory Size (dependent on memory type)": "128 GB",
-            "Memory Types": "DDR4-2666",
-            "Max # of Memory Channels": "2",
-            "Max Memory Bandwidth": "41.6 GB/s",
-            "ECC Memory Supported": "Yes"
-        },
-        "Processor Graphics": {
-            "Processor Graphics": "Intel UHD Graphics 630",
-            "Graphics Base Frequency": "350 MHz",
-            "Graphics Max Dynamic Frequency": "1.20 GHz",
-            "Graphics Video Max Memory": "128 GB",
-            "Graphics Output": "eDP/DP/HDMI/DVI",
-            "4K Support": "Yes, at 60Hz",
-            "Max Resolution (HDMI 1.4)": "4096x2160@30Hz",
-            "Max Resolution (DP)": "4096x2304@60Hz",
-            "Max Resolution (eDP - Integrated Flat Panel)": "4096x2304@60Hz",
-            "Max Resolution (VGA)": "N/A",
-            "DirectX Support": "12",
-            "OpenGL Support": "4.5",
-            "Intel Quick Sync Video": "Yes",
-            "Intel InTru 3D Technology": "Yes",
-            "Intel Clear Video HD Technology": "Yes",
-            "Intel Clear Video Technology": "Yes",
-            "# of Displays Supported": "3",
-            "Device ID": "0x3E9A"
-        },
-        "Expansion Options": {
-            "Scalability": "1S Only",
-            "PCI Express Revision": "3.0",
-            "PCI Express Configurations": "Up to 1x16, 2x8, 1x8+2x4",
-            "Max # of PCI Express Lanes": "16"
-        },
-        "Package Specifications": {
-            "Max CPU Configuration": "1",
-            "Package Size": "37.5mm x 37.5mm"
-        },
-        "Advanced Technologies": {
-            "Intel Optane Memory Supported": "Yes",
-            "Intel Turbo Boost Technology": "2.0",
-            "Intel vPro Platform Eligibility": "Yes",
-            "Intel Hyper-Threading Technology": "Yes",
-            "Intel Virtualization Technology (VT-x)": "Yes",
-            "Intel Virtualization Technology for Directed I/O (VT-d)": "Yes",
-            "Intel VT-x with Extended Page Tables (EPT)": "Yes",
-            "Intel TSX-NI": "Yes",
-            "Intel 64": "Yes",
-            "Instruction Set": "64-bit",
-            "Instruction Set Extensions": "Intel SSE4.1, Intel SSE4.2, Intel AVX2",
-            "Idle States": "Yes",
-            "Enhanced Intel SpeedStep Technology": "Yes",
-            "Thermal Monitoring Technologies": "Yes"
-        },
-        "Security & Reliability": {
-            "Intel AES New Instructions": "Yes",
-            "Secure Key": "Yes",
-            "Intel Software Guard Extensions (Intel SGX)": "Yes with both Intel SPS and Intel ME",
-            "Intel Memory Protection Extensions (Intel MPX)": "Yes",
-            "Intel OS Guard": "Yes",
-            "Intel Trusted Execution Technology": "Yes",
-            "Execute Disable Bit": "Yes",
-            "Intel Boot Guard": "Yes"
-        }
+        {
+            "name": "Intel Xeon E-2278GE Processor (16M Cache, 3.30 GHz)",
+            "Essentials": {
+                "Product Collection": "Intel Xeon E Processor",
+                "Code Name": "Products formerly Coffee Lake",
+                "Vertical Segment": "Embedded",
+                "Processor Number": "E-2278GE",
+                "Status": "Launched",
+                "Launch Date": "Q2'19",
+                "Lithography": "14 nm",
+                "Use Conditions": "Embedded Broad Market Commercial Temp"
+            },
+            "Performance": {
+                "# of Cores": "8",
+                "# of Threads": "16",
+                "Processor Base Frequency": "3.30 GHz",
+                "Max Turbo Frequency": "4.70 GHz",
+                "Cache": "16 MB",
+                "Bus Speed": "8 GT/s DMI3",
+                "TDP": "80 W"
+            },
+            "Supplemental Information": {
+                "Embedded Options Available": "Yes"
+            },
+            "Memory Specifications": {
+                "Max Memory Size (dependent on memory type)": "128 GB",
+                "Memory Types": "DDR4-2666",
+                "Max # of Memory Channels": "2",
+                "Max Memory Bandwidth": "41.6 GB/s",
+                "ECC Memory Supported": "Yes"
+            },
+            "Processor Graphics": {
+                "Processor Graphics": "Intel UHD Graphics 630",
+                "Graphics Base Frequency": "350 MHz",
+                "Graphics Max Dynamic Frequency": "1.20 GHz",
+                "Graphics Video Max Memory": "128 GB",
+                "Graphics Output": "eDP/DP/HDMI/DVI",
+                "4K Support": "Yes, at 60Hz",
+                "Max Resolution (HDMI 1.4)": "4096x2160@30Hz",
+                "Max Resolution (DP)": "4096x2304@60Hz",
+                "Max Resolution (eDP - Integrated Flat Panel)": "4096x2304@60Hz",
+                "Max Resolution (VGA)": "N/A",
+                "DirectX Support": "12",
+                "OpenGL Support": "4.5",
+                "Intel Quick Sync Video": "Yes",
+                "Intel InTru 3D Technology": "Yes",
+                "Intel Clear Video HD Technology": "Yes",
+                "Intel Clear Video Technology": "Yes",
+                "# of Displays Supported": "3",
+                "Device ID": "0x3E9A"
+            },
+            "Expansion Options": {
+                "Scalability": "1S Only",
+                "PCI Express Revision": "3.0",
+                "PCI Express Configurations": "Up to 1x16, 2x8, 1x8+2x4",
+                "Max # of PCI Express Lanes": "16"
+            },
+            "Package Specifications": {
+                "Max CPU Configuration": "1",
+                "Package Size": "37.5mm x 37.5mm"
+            },
+            "Advanced Technologies": {
+                "Intel Optane Memory Supported": "Yes",
+                "Intel Turbo Boost Technology": "2.0",
+                "Intel vPro Platform Eligibility": "Yes",
+                "Intel Hyper-Threading Technology": "Yes",
+                "Intel Virtualization Technology (VT-x)": "Yes",
+                "Intel Virtualization Technology for Directed I/O (VT-d)": "Yes",
+                "Intel VT-x with Extended Page Tables (EPT)": "Yes",
+                "Intel TSX-NI": "Yes",
+                "Intel 64": "Yes",
+                "Instruction Set": "64-bit",
+                "Instruction Set Extensions": "Intel SSE4.1, Intel SSE4.2, Intel AVX2",
+                "Idle States": "Yes",
+                "Enhanced Intel SpeedStep Technology": "Yes",
+                "Thermal Monitoring Technologies": "Yes"
+            },
+            "Security & Reliability": {
+                "Intel AES New Instructions": "Yes",
+                "Secure Key": "Yes",
+                "Intel Software Guard Extensions (Intel SGX)": "Yes with both Intel SPS and Intel ME",
+                "Intel Memory Protection Extensions (Intel MPX)": "Yes",
+                "Intel OS Guard": "Yes",
+                "Intel Trusted Execution Technology": "Yes",
+                "Execute Disable Bit": "Yes",
+                "Intel Boot Guard": "Yes"
+            }
+       }]
     }
 }
