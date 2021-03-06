@@ -43,3 +43,20 @@ def buscaprocesador(nombre):
         if i.get("name") == nombre:
             caracteristicas=i.get("Performance")
             return caracteristicas
+def sockets():
+    print("------SOCKETS------")
+    print('''1.PPGA604
+2.H-PBGA479
+3.PBGA479
+4.PPGA370
+5.LGA775
+6.Elegir otro
+7.Salir''')
+    opcion=int(input("Introduce la opcion:"))
+    return opcion
+def buscasocket(nombresocket):
+    nombres=[]
+    for i in datos.get("procesadores").get("procesador"):
+        if i.get("Package Specifications").get("Sockets Supported") == nombresocket:
+            nombres.append(i.get("name"))
+    return nombres
