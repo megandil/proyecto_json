@@ -59,9 +59,32 @@ while menus != 6:
             print()
             print("---PROCESADORES COMPATIBLES---")
             for i in buscasocket(socket):
-                print(i)
+                print("-",i)
             print()  
             menusocket=sockets()
-            print(menusocket)         
+            print(menusocket)
+    if menus == 5:
+        numcore=input("Introduce el número de cores: ")
+        menucaracteristica=menucaracteristicas()
+        print(menucaracteristica)
+        while menucaracteristica != 5:
+            if menucaracteristica == 1:
+                caracteristica="Processor Base Frequency"
+                break
+            if menucaracteristica == 2:
+                caracteristica="Cache"
+                break
+            if menucaracteristica == 3:
+                caracteristica="Bus Speed"
+                break
+            if menucaracteristica == 4:
+                caracteristica="TDP"
+                break
+        print()
+        print("---PROCESADORES---")
+        for i in mayorcores(numcore):
+            print("-",i)
+            print("     ",caracteristica,"->",adicional(caracteristica,i))
+        print()      
     menus=menu()
     print(menus)
