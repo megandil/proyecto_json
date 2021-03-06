@@ -27,3 +27,19 @@ def contarprocesadores():
             cuenta32=cuenta32+1
     lista=[cuenta64,cuenta32]
     return lista
+def menuprocesadores():
+    print("------ALGUNOS PROCESADORES------")
+    print('''1.Intel Xeon Processor 2.80 GHz
+2.Intel Celeron M Processor ULV 353
+3.Intel Celeron Processor E3500
+4.Intel Core2 Duo Processor SU7300
+5.Intel Pentium Processor E5500
+6.Elegir otro
+7.Salir''')
+    opcion=int(input("Introduce la opcion:"))
+    return opcion
+def buscaprocesador(nombre):
+    for i in datos.get("procesadores").get("procesador"):
+        if i.get("name") == nombre:
+            caracteristicas=i.get("Performance")
+            return caracteristicas
