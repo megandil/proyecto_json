@@ -11,5 +11,13 @@ while menus != 6:
         for i in nombreprocesadores():
             print("-",i)
         print()
+    if menus == 2:
+        cuenta=contarprocesadores()
+        print("---64 BITS---")
+        print("%i procesadores" % cuenta[0])
+        print()
+        print("---32 BITS---")
+        print("%i procesadores" % cuenta[1])
+        print()
     menus=menu()
     print(menus)
