@@ -19,5 +19,26 @@ while menus != 6:
         print("---32 BITS---")
         print("%i procesadores" % cuenta[1])
         print()
+    if menus == 3:
+        menuprocesador=menuprocesadores()
+        print(menuprocesador)
+        while menuprocesador != 7:
+            if menuprocesador == 1:
+                procesador="64-bit Intel Xeon Processor 2.80 GHz, 1M Cache, 800 MHz FSB"
+            if menuprocesador == 2:
+                procesador="Intel Celeron M Processor ULV 353 (512K Cache, 900 MHz, 400 MHz FSB)"
+            if menuprocesador == 3:
+                procesador="Intel Celeron Processor E3500 (1M Cache, 2.70 GHz, 800 MHz FSB)"
+            if menuprocesador == 4:
+                procesador="Intel Core2 Duo Processor SU7300 (3M Cache, 1.30 GHz, 800 MHz FSB)"
+            if menuprocesador == 5:
+                procesador="Intel Pentium Processor E5500 (2M Cache, 2.80 GHz, 800 MHz FSB)"
+            if menuprocesador == 6:
+                procesador=input("Introduce el nombre del procesador manualmente:")
+            print("----CARACTERÍSTICAS----")
+            for clave,valor in buscaprocesador(procesador).items():
+                print(clave,"->",valor) 
+            menuprocesador=menuprocesadores()
+            print(menuprocesador)       
     menus=menu()
     print(menus)
